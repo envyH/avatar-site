@@ -1,0 +1,128 @@
+/* Light Mode (default) */
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.navbar {
+    background-color: #e3f2fd !important;
+}
+
+.navbar-brand,
+.nav-link,
+.dropdown-item {
+    color: #000000 !important;
+}
+
+.nav-link.disabled {
+    color: #777 !important;
+}
+
+.form-control {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-color: #ccc !important;
+}
+
+.form-control::placeholder {
+    color: #888 !important;
+}
+
+/* .btn {
+    color: #000000 !important;
+    border-color: #000000 !important;
+} */
+
+.dropdown-menu {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+.border {
+    border-color: #ccc !important;
+}
+
+
+/* Dark Mode - khi có class .dark-mode */
+.dark-mode body {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+}
+
+.dark-mode .navbar {
+    background-color: #1f1f1f !important;
+}
+
+.dark-mode .navbar-brand,
+.dark-mode .nav-link,
+.dark-mode .dropdown-item {
+    color: #ffffff !important;
+}
+
+.dark-mode .nav-link.disabled {
+    color: #888888 !important;
+}
+
+.dark-mode .form-control {
+    background-color: #2a2a2a !important;
+    color: #ffffff !important;
+    border-color: #555 !important;
+}
+
+.dark-mode .form-control::placeholder {
+    color: #cccccc !important;
+}
+
+.dark-mode .btn {
+    color: #ffffff !important;
+    border-color: #ffffff !important;
+}
+
+.dark-mode .dropdown-menu {
+    background-color: #2a2a2a !important;
+    color: #ffffff !important;
+}
+
+.dark-mode .dropdown-item:hover {
+    background-color: #444 !important;
+}
+
+.dark-mode .border {
+    border-color: #444 !important;
+}
+
+
+/* Transition mượt */
+body,
+.navbar,
+.form-control,
+.dropdown-menu,
+.btn,
+.border {
+    transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
+}
+
+/* Dark mode */
+.dark-mode body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .navbar {
+    background-color: #1f1f1f !important;
+}
+
+.dark-mode .form-control {
+    background-color: #2a2a2a;
+    color: #fff;
+    border-color: #555;
+}
+
+.dark-mode .dropdown-menu {
+    background-color: #2a2a2a;
+    color: #fff;
+}
+
+.dark-mode .border {
+    border-color: #444;
+}
