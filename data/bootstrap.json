@@ -9,12 +9,22 @@
         "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
         "dialog": {
             "title": "Thông báo",
-            "message": "Đã thêm chức năng Auto Attack\nBạn có thể tải về để trải nghiệm những tính năng mới nhất."
+            "message": "Chỉnh sửa toàn bộ tính năng Auto Farm"
         }
     },
     "changelog": {
-        "latest": "## Cập nhật ngày 16/05/2025\n- Cập nhật lại Auto Farm, đã bao gồm chăm sóc cho vợ/chồng, bạn bè, tuỳ chọn tự động mua lại vật nuôi, tự động chuyển NV\n- Auto Farm có thể sử dụng Lái buôn hỗ trợ hoặc farm thủ công"
+        "latest": "## Cập nhật ngày 01/07/2025\n- Cập nhật lại Auto Farm: vẫn bao gồm các tính năng như trước nhưng đã được tối ưu hóa và sửa lỗi."
     },
     "config": {},
-    "timestamp": "2025-06-16T08:00:00Z"
+    "timestamp": "2025-06-16T08:00:00Z",
+    "history": [
+        {
+            "version": 259,
+            "timestamp": "2025-06-16T08:00:00Z",
+            "changes": [
+                "Thêm chức năng Auto Attack"
+            ],
+            "message": "Đã thêm chức năng Auto Attack\nBạn có thể tải về để trải nghiệm những tính năng mới nhất."
+        }
+    ]
 }
