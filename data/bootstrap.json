@@ -1,0 +1,20 @@
+{
+    "version": {
+        "code": 259,
+        "name": "2.5.9",
+        "forceUpdate": true,
+        "downloadUrl": "https://envyh.github.io/avatar-site/"
+    },
+    "announcement": {
+        "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
+        "dialog": {
+            "title": "Thông báo",
+            "message": "Đã thêm chức năng Auto Attack\nBạn có thể tải về để trải nghiệm những tính năng mới nhất."
+        }
+    },
+    "changelog": {
+        "latest": "## Cập nhật ngày 16/05/2025\n- Cập nhật lại Auto Farm, đã bao gồm chăm sóc cho vợ/chồng, bạn bè, tuỳ chọn tự động mua lại vật nuôi, tự động chuyển NV\n- Auto Farm có thể sử dụng Lái buôn hỗ trợ hoặc farm thủ công"
+    },
+    "config": {},
+    "timestamp": "2025-06-16T08:00:00Z"
+}
