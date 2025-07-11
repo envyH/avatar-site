@@ -13,7 +13,7 @@
         }
     },
     "changelog": {
-        "file": 2,
+        "file": 3,
         "latest": "## Cập nhật ngày 01/07/2025\n- Cập nhật lại Auto Farm: vẫn bao gồm các tính năng cũ nhưng đã được tối ưu hóa và sửa lỗi."
     },
     "config": {},
