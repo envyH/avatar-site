@@ -14,20 +14,11 @@
     },
     "changelog": {
         "file": 3,
-        "latest": "## Cập nhật ngày 01/07/2025\n- Cập nhật lại Auto Farm: vẫn bao gồm các tính năng cũ nhưng đã được tối ưu hóa và sửa lỗi."
+        "latest": "## Cập nhật ngày 01/07/2025\n- Cập nhật lại Auto Farm\n- Bạn nên xoá config cũ để tránh lỗi."
     },
     "config": {
         "delete": true
     },
-    "timestamp": "2025-07-12T16:43:00Z",
-    "history": [
-        {
-            "version": 259,
-            "timestamp": "2025-06-16T08:00:00Z",
-            "changes": [
-                "Thêm chức năng Auto Attack"
-            ],
-            "message": "Đã thêm chức năng Auto Attack\nBạn có thể tải về để trải nghiệm những tính năng mới nhất."
-        }
-    ]
+    "history": [],
+    "timestamp": "2025-07-12T16:43:00Z"
 }
