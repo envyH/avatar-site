@@ -1,7 +1,7 @@
 {
     "version": {
-        "code": 259,
-        "name": "2.5.9",
+        "code": 258,
+        "name": "2.5.8",
         "forceUpdate": true,
         "downloadUrl": "https://envyh.github.io/avatar-site/"
     },
@@ -17,7 +17,8 @@
         "latest": "- Cập nhật lại Auto Farm\n- Bạn nên xoá config cũ để tránh lỗi."
     },
     "config": {
-        "delete": true
+        "delete": true,
+        "require": false
     },
     "history": [],
     "timestamp": "2025-07-12T16:43:00Z"
