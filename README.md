@@ -21,6 +21,8 @@
 ## Mod by: **Vững Nguyễn**
 
 
+---
+
 #### Một vài chỉnh sửa so với bản gốc: 
 - Cập nhật thêm font chữ
 - Chỉnh sửa lại 1 số giao diện
