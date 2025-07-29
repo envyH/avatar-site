@@ -4,11 +4,4 @@
 - Cập nhật thêm một số từ không có sẵn trong font mặc định của game
 - Sửa lỗi liên quan đến Chức năng tặng quà trong Lễ đường
 - Thêm tuỳ chọn quãng nghỉ cho Auto Quay số(Sau update của TeaMobi thì có thể chỉnh quãng nghỉ ngắn hơn)
-
-
-## Cập nhật ngày 01/07/2025
-
-- Cập nhật lại toàn bộ **Auto Farm**,
-- Thêm **tự động bỏ KCX** khi **câu cá**
-- Thêm hộp thoại xác nhận khi **xoá bạn bè**
-- Tối ưu lại giao diện: khi dùng chức năng **tặng quà** sẽ hiển thị người chơi **được tặng** thay vì **chính bản thân** như bản gốc
+- Để xem thêm vui lòng truy cập: https://envyh.github.io/avatar-site/

@@ -1,14 +1,14 @@
 #### Các chức năng chính bao gồm:
 - Auto farm
-- Auto fish
+- Auto Câu cá
 - Auto kim cương
 - Auto bán đá
-- Auto quay số
-- Auto nâng cấp đồ
-- Auto tìm NPC
+- Auto Quay số
+- Auto Nâng cấp đồ
+- Auto Tìm, tấn công NPC
 - Auto Anh-Việt
 - Auto dùng vật phẩm
-- Auto đi Ai Cập
+- Auto Ai Cập
 - Auto hôn, đánh
 - Auto VQBD, Hô phong hoán vũ
 - Một số Auto khác,..
@@ -19,6 +19,13 @@
 ##### Bản quyền thuộc về [**TeaMobi**](http://teamobi.com/home/trang-chu.html "TeaMobi")
 
 ## Mod by: **Vững Nguyễn**
+
+
+#### Một vài chỉnh sửa so với bản gốc: 
+- Cập nhật thêm font chữ
+- Chỉnh sửa lại 1 số giao diện
+- Hiển thị thông báo chạy khi đang Ongame(Casino)
+- Thêm 1 số CMD hỗ trợ
 
 ---
 
