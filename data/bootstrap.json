@@ -1,7 +1,7 @@
 {
     "version": {
-        "code": 258,
-        "name": "2.5.8",
+        "code": 259,
+        "name": "2.5.9",
         "forceUpdate": true,
         "downloadUrl": "https://envyh.github.io/avatar-site/"
     },
@@ -9,17 +9,17 @@
         "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
         "dialog": {
             "title": "Thông báo",
-            "message": "## Cập nhật ngày 01/07/2025"
+            "message": "## Cập nhật ngày 29/07/2025"
         }
     },
     "changelog": {
         "file": 3,
-        "latest": "- Cập nhật lại Auto Farm\n- Bạn nên xoá config cũ để tránh lỗi."
+        "latest": "- Sửa một số lỗi liên quan đến Auto Farm\n- Tuỳ chỉnh lại giao diện nông trại\n- Cập nhật thêm một số từ không có sẵn trong font mặc định của game."
     },
     "config": {
-        "delete": true,
+        "delete": false,
         "require": false
     },
     "history": [],
-    "timestamp": "2025-07-12T16:43:00Z"
+    "timestamp": "2025-07-29T19:41:00Z"
 }
