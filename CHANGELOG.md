@@ -1,3 +1,6 @@
+## Cập nhật ngày 14/08/2025
+- Sửa lỗi liên quan đến tab tin nhắn(Không hiển thị Tin nhắn chung nếu vừa vào lại game sau khi Mất kết nối, đứng game khi đóng tab)
+
 ## Cập nhật ngày 29/07/2025
 - Sửa một số lỗi liên quan đến Auto Farm
 - Tuỳ chỉnh lại giao diện nông trại(Không mở rộng hồ cá)

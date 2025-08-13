@@ -9,17 +9,17 @@
         "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
         "dialog": {
             "title": "Thông báo",
-            "message": "## Cập nhật ngày 29/07/2025"
+            "message": "## Cập nhật ngày 14/08/2025"
         }
     },
     "changelog": {
         "file": 3,
-        "latest": "- Sửa một số lỗi liên quan đến Auto Farm\n- Tuỳ chỉnh lại giao diện nông trại\n- Cập nhật thêm một số từ không có sẵn trong font mặc định của game."
+        "latest": "- Sửa lỗi liên quan đến tab tin nhắn\n- Không hiển thị Tin nhắn chung nếu vừa vào lại game sau khi Mất kết nối\n- Đứng game khi đóng tab tin nhắn."
     },
     "config": {
         "delete": false,
         "require": false
     },
     "history": [],
-    "timestamp": "2025-07-29T19:41:00Z"
+    "timestamp": "2025-08-14T02:12:00Z"
 }
