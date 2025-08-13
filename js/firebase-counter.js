@@ -20,9 +20,9 @@ const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 
 const file_links = [
-    // { version: "Avatar259", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259.jar" },
-    // { version: "Avatar259x2", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259x2.jar" },
-    // { version: "Avatar259x3", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259x3.jar" },
+    { version: "Avatar259", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259.jar" },
+    { version: "Avatar259x2", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259x2.jar" },
+    { version: "Avatar259x3", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259x3.jar" },
 ];
 
 const buttonsDiv = document.getElementById("buttons");
