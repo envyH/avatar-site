@@ -19,6 +19,7 @@
         "latest": "- Chúc mọi người hoàn thành tốt công việc và nhiệm vụ được giao, mọi người tin yêu và thành công trong sự nghiệp."
     },
     "config": {
+        "detail": false,
         "delete": false,
         "require": false
     },
