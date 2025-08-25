@@ -24,7 +24,7 @@
 ---
 
 #### Một vài chỉnh sửa so với bản gốc: 
-- Cập nhật thêm font chữ
+- Cập nhật thêm chữ cái trong file font gốc
 - Chỉnh sửa lại 1 số giao diện
 - Hiển thị thông báo chạy khi đang Ongame(Casino)
 - Thêm 1 số CMD hỗ trợ

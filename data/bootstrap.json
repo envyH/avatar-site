@@ -8,18 +8,20 @@
     "announcement": {
         "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
         "dialog": {
+            "show": true,
             "title": "Thông báo",
-            "message": "## Cập nhật ngày 14/08/2025"
+            "temp": "## Cập nhật ngày 25/08/2025",
+            "message": "## Mừng Tết Độc lập"
         }
     },
     "changelog": {
         "file": 3,
-        "latest": "- Sửa lỗi liên quan đến tab tin nhắn\n- Không hiển thị Tin nhắn chung nếu vừa vào lại game sau khi Mất kết nối\n- Đứng game khi đóng tab tin nhắn."
+        "latest": "- Chúc mọi người hoàn thành tốt công việc và nhiệm vụ được giao, mọi người tin yêu và thành công trong sự nghiệp."
     },
     "config": {
         "delete": false,
         "require": false
     },
     "history": [],
-    "timestamp": "2025-08-14T02:12:00Z"
+    "timestamp": "2025-08-25T09:25:00Z"
 }

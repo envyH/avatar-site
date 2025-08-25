@@ -20,12 +20,15 @@ const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 
 const file_links = [
-    { version: "Avatar259", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259.jar" },
-    { version: "Avatar259x2", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259x2.jar" },
-    { version: "Avatar259x3", url: "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259x3.jar" },
+
 ];
 
 const buttonsDiv = document.getElementById("buttons");
+
+if (file_links.length === 0) {
+    // <h2 class="my-3">Tạm đóng link để sửa lỗi</h2>
+    buttonsDiv.innerHTML = "<h2>Không có tập tin nào có thể tải xuống</h2>";
+}
 
 file_links.forEach(file => {
     const version = file.version;
@@ -59,3 +62,24 @@ file_links.forEach(file => {
         if (countSpan) countSpan.textContent = count;
     });
 });
+
+if (file_links.length > 0) {
+    buttonsDiv.appendChild(document.createElement("br"));
+    buttonsDiv.appendChild(document.createElement("br"));
+
+    let btn = document.createElement("a");
+    btn.textContent = "Avatar259.jar.sha256.txt";
+    btn.href = "#";
+    btn.addEventListener("click", (e) => {
+        e.preventDefault();
+
+        const a = document.createElement("a");
+        a.href = "https://github.com/envyH/avatar-site/releases/download/v2.5.9/Avatar259.jar.sha256.txt";
+        a.download = "";
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    });
+
+    buttonsDiv.appendChild(btn);
+}
