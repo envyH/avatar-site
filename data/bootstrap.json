@@ -8,7 +8,7 @@
     "announcement": {
         "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
         "dialog": {
-            "show": true,
+            "show": false,
             "title": "Thông báo",
             "temp": "## Cập nhật ngày 25/08/2025",
             "message": "## Mừng Tết Độc lập"
