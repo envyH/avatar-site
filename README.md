@@ -23,11 +23,14 @@
 
 ---
 
-#### Một vài chỉnh sửa so với bản gốc: 
+#### Một vài chỉnh sửa so với bản gốc:
+- Cập nhật hàm paint item trong rương đồ(Đối với các loại tóc cùng loại như: tóc trẻ con, quý tộc,.. giờ đây là in màu thay vì đen toàn bộ như trước)
+- Khi tặng quà sẽ hiển thị người chơi được chọn + món đồ được sẽ tặng thay vì hiển thị bản thân
 - Cập nhật thêm chữ cái trong file font gốc
-- Chỉnh sửa lại 1 số giao diện
+- Chỉnh sửa lại 1 số giao diện(Nhẫn, ngôi sao,..)
 - Hiển thị thông báo chạy khi đang Ongame(Casino)
 - Thêm 1 số CMD hỗ trợ
+- Sửa lại hàm setExp khi hiển thị exp của OnGame
 
 ---
 
