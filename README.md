@@ -25,7 +25,9 @@
 
 #### Một vài chỉnh sửa so với bản gốc:
 - Cập nhật hàm paint item trong rương đồ(Đối với các loại tóc cùng loại như: tóc trẻ con, quý tộc,.. giờ đây là in màu thay vì đen toàn bộ như trước)
+![Hair Color](https://envyh.github.io/avatar-site/assets/preview/hair-color.png)
 - Khi tặng quà sẽ hiển thị người chơi được chọn + món đồ được sẽ tặng thay vì hiển thị bản thân
+![Give a gift](https://envyh.github.io/avatar-site/assets/preview/give-gift.png)
 - Cập nhật thêm chữ cái trong file font gốc
 - Chỉnh sửa lại 1 số giao diện(Nhẫn, ngôi sao,..)
 - Hiển thị thông báo chạy khi đang Ongame(Casino)
