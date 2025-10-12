@@ -24,6 +24,8 @@
 ---
 
 #### Một vài chỉnh sửa so với bản gốc:
+- Sửa lỗi load tilemap trong nhà ở khi mang một số vật phẩm đặc biệt
+![Load tilemap home](https://envyh.github.io/avatar-site/assets/preview/load-tilemap-home.png)
 - Cập nhật hàm paint item trong rương đồ(Đối với các loại tóc cùng loại như: tóc trẻ con, quý tộc,.. giờ đây là in màu thay vì đen toàn bộ như trước)
 ![Hair Color](https://envyh.github.io/avatar-site/assets/preview/hair-color.png)
 - Khi tặng quà sẽ hiển thị người chơi được chọn + món đồ được sẽ tặng thay vì hiển thị bản thân
