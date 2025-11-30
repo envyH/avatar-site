@@ -27,7 +27,7 @@ const buttonsDiv = document.getElementById("buttons");
 
 if (file_links.length === 0) {
     // <h2 class="my-3">Tạm đóng link để sửa lỗi</h2>
-    buttonsDiv.innerHTML = "<h2>Không có tập tin nào có thể tải xuống</h2> <br><br><h1><a class=\"text-decoration-none\" href=\"https://envy.id.vn/\" target=\"_blank\" title=\"Avatar Auto Mod By Envy\"> Vui lòng truy cập trang chủ để tải xuống</a></h1>";
+    buttonsDiv.innerHTML = "<h2>Không có tập tin nào có thể tải xuống</h2> <br><br><h1><a class=\"text-decoration-none\" href=\"https://envy.id.vn/\" target=\"_blank\" title=\"Avatar Auto Mod By Envy\"> Vui lòng truy cập trang chủ để tải xuống</a></h1><br><h3>Lần cập nhật cuối cùng: 30/11/2025</h3>";
 }
 
 file_links.forEach(file => {
