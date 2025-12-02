@@ -16,7 +16,7 @@
     },
     "changelog": {
         "file": 4,
-        "latest": "- Thêm **Auto tặng quà**\n- Thêm menu **Hiệu ứng**\n- Thêm **Auto cho ăn xin**\n- Thêm **bộ lọc** bạn bè đang online\n- Thêm chức năng **Bón phân**, **Diệt sâu/cỏ**, **Tưới nước**\n- Thêm **Auto sử dụng giftcode**\n- Sửa lỗi và tối ưu giao diện"
+        "latest": "- Thêm Auto tặng quà\n- Thêm menu Hiệu ứng\n- Thêm Auto cho ăn xin\n- Thêm bộ lọc bạn bè đang online\n- Thêm chức năng Bón phân, Diệt sâu/cỏ, Tưới nước\n- Thêm Auto sử dụng giftcode\n- Sửa lỗi và tối ưu giao diện"
     },
     "config": {
         "detail": false,
