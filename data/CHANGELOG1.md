@@ -1,18 +1,17 @@
-## Cập nhật ngày 14/08/2025
-- Sửa lỗi liên quan đến tab tin nhắn(Không hiển thị Tin nhắn chung nếu vừa vào lại game sau khi Mất kết nối, đứng game khi đóng tab)
-
-
-## Cập nhật ngày 29/07/2025
-- Sửa một số lỗi liên quan đến Auto Farm
-- Tuỳ chỉnh lại giao diện nông trại(Không mở rộng hồ cá)
-- Cập nhật thêm một số từ không có sẵn trong font mặc định của game
-- Sửa lỗi liên quan đến Chức năng tặng quà trong Lễ đường
-- Thêm tuỳ chọn quãng nghỉ cho Auto Quay số(Sau update của TeaMobi thì có thể chỉnh quãng nghỉ ngắn hơn)
-
-
-## Cập nhật ngày 01/07/2025
-
-- Cập nhật lại toàn bộ **Auto Farm**,
-- Thêm **tự động bỏ KCX** khi **câu cá**
-- Thêm hộp thoại xác nhận khi **xoá bạn bè**
-- Tối ưu lại giao diện: khi dùng chức năng **tặng quà** sẽ hiển thị người chơi **được tặng** thay vì **chính bản thân** như bản gốc
+## Cập nhật ngày 02/12/2025
+- Thêm **Auto tặng quà** Tiện ích => Auto tặng quà
+- Thêm menu **Hiệu ứng** Nâng cao => Hiệu ứng
+- Thêm **Auto cho ăn xin** Con trỏ vào NPC an.xin => Menu => Auto
+- Thêm **bộ lọc** bạn bè đang online
+- Thêm chức năng **Bón phân**, **Diệt sâu/cỏ**, **Tưới nước** trong menu Cây trồng
+- Thêm **Auto sử dụng giftcode** trong cài đặt Chăm sóc tự động
+- Sửa lỗi **không bán hết vật** nuôi hàng loạt theo loại
+- Sửa lỗi không thể giữ cá ở **Auto Câu cá**
+- Sửa lỗi **load sai tài nguyên** khi vào **Nhà** mà trên người đang mang một số vật phẩm đặc biệt(Pet thỏ mua ở Khu mua sắm,..)
+- Sửa lỗi không thể lấy dữ liệu **Auto chuyển xèng**
+- Tối ưu **Menu NPC**
+- Tối ưu giao diện: Giờ đây nếu rương bạn có nhiều loại vật phẩm **cùng loại** nhưng khác màu(tóc,..) sẽ **in màu** của chúng
+- Tối ưu giao diện: **Cài đặt** mặc định của game giờ trông trực quan hơn(Thêm tuỳ chọn **ngôn ngữ**)
+- Tối ưu **Auto nâng cấp item**
+- Tối ưu **Auto NPC**(Tìm kiếm, Tấn công)
+- Tối ưu **Auto Quay số**, sửa lỗi không xoá item rác tại lượt cuối cùng nếu cài đặt giới hạn
