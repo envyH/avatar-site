@@ -1,7 +1,7 @@
 ## Cập nhật ngày 02/12/2025
-- Thêm **Auto tặng quà** Tiện ích => Auto tặng quà
-- Thêm menu **Hiệu ứng** Nâng cao => Hiệu ứng
-- Thêm **Auto cho ăn xin** Con trỏ vào NPC an.xin => Menu => Auto
+- Thêm **Auto tặng quà**
+- Thêm menu **Hiệu ứng**
+- Thêm **Auto cho ăn xin** Con trỏ vào NPC an.xin
 - Thêm **bộ lọc** bạn bè đang online
 - Thêm chức năng **Bón phân**, **Diệt sâu/cỏ**, **Tưới nước** trong menu Cây trồng
 - Thêm **Auto sử dụng giftcode** trong cài đặt Chăm sóc tự động
