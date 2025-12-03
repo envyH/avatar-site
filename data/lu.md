@@ -1,11 +1,11 @@
 ## Cập nhật ngày 02/12/2025
-- Thêm **Auto tặng quà** Tiện ích => Auto tặng quà
-- Thêm menu **Hiệu ứng** Nâng cao => Hiệu ứng
-- Thêm **Auto cho ăn xin** Con trỏ vào NPC an.xin => Menu => Auto
+- Thêm **Auto tặng quà**
+- Thêm menu **Hiệu ứng**
+- Thêm **Auto cho ăn xin** Con trỏ vào NPC an.xin
 - Thêm **bộ lọc** bạn bè đang online
 - Thêm chức năng **Bón phân**, **Diệt sâu/cỏ**, **Tưới nước** trong menu Cây trồng
 - Thêm **Auto sử dụng giftcode** trong cài đặt Chăm sóc tự động
-- Sửa lỗi **không bán hết vật** nuôi hàng loạt theo loại
+- Sửa lỗi **không bán hết vật nuôi** hàng loạt theo loại
 - Sửa lỗi không thể giữ cá ở **Auto Câu cá**
 - Sửa lỗi **load sai tài nguyên** khi vào **Nhà** mà trên người đang mang một số vật phẩm đặc biệt(Pet thỏ mua ở Khu mua sắm,..)
 - Sửa lỗi không thể lấy dữ liệu **Auto chuyển xèng**

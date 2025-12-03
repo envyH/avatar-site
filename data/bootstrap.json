@@ -20,7 +20,7 @@
     },
     "config": {
         "detail": true,
-        "delete": true,
+        "delete": false,
         "require": false
     },
     "history": [],
