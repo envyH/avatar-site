@@ -2,11 +2,11 @@
     "info": {
         "facebook": "fb.com/vung.tc10",
         "telegram": "t.me/vungtc",
-        "update": true,
+        "version": 259,
         "website": "envy.id.vn"
     },
     "announcement": {
-        "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
+        "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!!",
         "dialog": {
             "show": true,
             "title": "Thông báo",
