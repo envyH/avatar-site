@@ -2,7 +2,7 @@
     "info": {
         "facebook": "fb.com/vung.tc10",
         "telegram": "t.me/vungtc",
-        "version": 259,
+        "vscode": 1,
         "website": "envy.id.vn"
     },
     "announcement": {
@@ -15,7 +15,7 @@
     },
     "changelog": {
         "file": 4,
-        "latest": "- Thêm nhiều vl\n- Để xem thêm vui lòng truy cập: https://envy.id.vn/"
+        "latest": "- Thêm nhiều vl\n- Chi tiết tại: https://envy.id.vn/"
     },
     "config": {
         "detail": true,
