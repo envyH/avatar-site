@@ -10,12 +10,12 @@
         "dialog": {
             "show": true,
             "title": "Thông báo",
-            "message": "## Cập nhật ngày 01/01/2026"
+            "message": "## Cập nhật ngày 28/01/2026"
         }
     },
     "changelog": {
-        "file": 4,
-        "latest": "- Thêm nhiều vl\n- Chi tiết tại: https://envy.id.vn/"
+        "file": 5,
+        "latest": "- Phiên bản Avatar v2.5.9\n- Chi tiết tại: https://envy.id.vn/"
     },
     "config": {
         "detail": true,
@@ -23,5 +23,5 @@
         "require": false
     },
     "history": [],
-    "timestamp": "2026-01-01T10:01:00Z"
+    "timestamp": "2026-01-28T10:01:00Z"
 }

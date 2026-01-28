@@ -1,17 +1,12 @@
-## Cập nhật ngày 02/12/2025
-- Thêm **Auto tặng quà**
-- Thêm menu **Hiệu ứng**
-- Thêm **Auto cho ăn xin** Con trỏ vào NPC an.xin
-- Thêm **bộ lọc** bạn bè đang online
-- Thêm chức năng **Bón phân**, **Diệt sâu/cỏ**, **Tưới nước** trong menu Cây trồng
-- Thêm **Auto sử dụng giftcode** trong cài đặt Chăm sóc tự động
-- Sửa lỗi **không bán hết vật** nuôi hàng loạt theo loại
-- Sửa lỗi không thể giữ cá ở **Auto Câu cá**
-- Sửa lỗi **load sai tài nguyên** khi vào **Nhà** mà trên người đang mang một số vật phẩm đặc biệt(Pet thỏ mua ở Khu mua sắm,..)
-- Sửa lỗi không thể lấy dữ liệu **Auto chuyển xèng**
-- Tối ưu **Menu NPC**
-- Tối ưu giao diện: Giờ đây nếu rương bạn có nhiều loại vật phẩm **cùng loại** nhưng khác màu(tóc,..) sẽ **in màu** của chúng
-- Tối ưu giao diện: **Cài đặt** mặc định của game giờ trông trực quan hơn(Thêm tuỳ chọn **ngôn ngữ**)
-- Tối ưu **Auto nâng cấp item**
-- Tối ưu **Auto NPC**(Tìm kiếm, Tấn công)
-- Tối ưu **Auto Quay số**, sửa lỗi không xoá item rác tại lượt cuối cùng nếu cài đặt giới hạn
+## Cập nhật ngày 28/01/2025
+- Thêm cập nhật tên tài khoản trong danh sách tài khoản
+- Thêm lưu thông tin phòng, bàn khi chơi kim cương
+- Tối ưu giao diện danh sách block
+- Tối ưu AutoClick
+- Thêm tự động quay về farm khi bật AutoCare
+- Thêm tự động trồng cây, nấu đồ ăn khi rảnh
+- Thêm tự động nâng cấp cây khế
+- Thêm tự động thu hoạch tim, hỗ trợ cho em bé ăn nhanh
+- Tối ưu lại bộ đếm quà sự kiện
+- Cập nhật menu Cô giáo
+- Sửa năm ở map Cô giáo từ 2015 thành 2026
