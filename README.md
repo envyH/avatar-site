@@ -1,8 +1,8 @@
 #### Các chức năng chính bao gồm:
-- Auto farm
+- Auto Farm
 - Auto Câu cá
 - Auto kim cương
-- Auto bán đá
+- Auto Bán đá
 - Auto Quay số
 - Auto Nâng cấp đồ
 - Auto Tìm, tấn công NPC
