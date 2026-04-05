@@ -2,8 +2,8 @@
     "info": {
         "facebook": "fb.com/vung.tc10",
         "telegram": "t.me/vungtc",
-        "vscode": 2,
-        "vsdisplay": "2.5.9.1",
+        "vscode": 3,
+        "vsdisplay": "2.5.9.2",
         "website": "envy.id.vn"
     },
     "announcement": {
@@ -11,12 +11,12 @@
         "dialog": {
             "show": true,
             "title": "Thông báo",
-            "message": "## Cập nhật ngày 14/03/2026"
+            "message": "## Cập nhật ngày 05/04/2026"
         }
     },
     "changelog": {
         "file": 5,
-        "latest": "- Phiên bản Avatar v2.5.9.1\n- Chi tiết tại: https://envy.id.vn/"
+        "latest": "- Phiên bản Avatar v2.5.9.2\n- Chi tiết tại: https://envy.id.vn/"
     },
     "config": {
         "detail": true,
@@ -24,5 +24,5 @@
         "require": false
     },
     "history": [],
-    "timestamp": "2026-03-14T10:01:00Z"
+    "timestamp": "2026-04-05T10:01:00Z"
 }
