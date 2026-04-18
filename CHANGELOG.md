@@ -1,4 +1,4 @@
-## Cập nhật ngày 05/04/2026
+## Cập nhật ngày 18/04/2026
 - Thêm tự động chuyển hạt giống nếu đạt ngưỡng (cần cài đặt)
 - Tối ưu tìm khu trống khi bán đá
 - Thêm tự động mua vé(lóc), cần câu(tre) khi AutoFishing
