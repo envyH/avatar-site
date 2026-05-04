@@ -1,3 +1,14 @@
+## Cập nhật ngày 04/05/2026
+- Thêm Bảng gõ tắt
+- Cập nhật menu setting event
+- Tối ưu Auto tìm, tấn công NPC
+- Tối ưu Auto Chuyển xèng
+- Sửa lỗi AutoClick
+- Sửa lỗi không tự bán đá nếu ở sẵn Khu mua sắm
+- Sửa lỗi hiển thị server list khi thây đổi Server
+- Sửa lỗi bán đá khi Auto Câu cá
+
+
 ## Cập nhật ngày 18/04/2026
 - Thêm tự động chuyển hạt giống nếu đạt ngưỡng (cần cài đặt)
 - Tối ưu tìm khu trống khi bán đá
