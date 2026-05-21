@@ -1,0 +1,28 @@
+{
+    "info": {
+        "facebook": "fb.com/vung.tc10",
+        "telegram": "t.me/vungtc",
+        "vscode": 5,
+        "vsdisplay": "2.5.9.4",
+        "website": "envy.id.vn"
+    },
+    "announcement": {
+        "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!!",
+        "dialog": {
+            "show": true,
+            "title": "Thông báo",
+            "message": "## Cập nhật ngày 04/05/2026"
+        }
+    },
+    "changelog": {
+        "file": 7,
+        "latest": "- Phiên bản Avatar v2.5.9.4\n- Chi tiết tại: https://envy.id.vn/"
+    },
+    "config": {
+        "detail": true,
+        "delete": false,
+        "require": false
+    },
+    "history": [],
+    "timestamp": "2026-05-04T10:01:00Z"
+}
