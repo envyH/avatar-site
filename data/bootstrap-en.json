@@ -8,10 +8,10 @@
         "website": "envy.id.vn"
     },
     "ac": {
-        "ticker": "Avatar v2.5.9.4 thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!!",
+        "ticker": "Avatar v2.5.9.4 is copyrighted by TeaMobi and modified by Envy. Have fun playing the game!!",
         "show": true,
-        "title": "Thông báo",
-        "msg": "## Cập nhật ngày 04/05/2026\n\n- Phiên bản Avatar v2.5.9.4\n- Chi tiết tại: https://envy.id.vn/"
+        "title": "Announcement",
+        "msg": "## Updated May 4, 2026\n\n- Avatar version v2.5.9.4\n- Details at: https://envy.id.vn/"
     },
     "config": {
         "detail": true,

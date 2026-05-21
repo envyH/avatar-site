@@ -1,7 +1,7 @@
 ## Cập nhật ngày 14/04/2025
 
 - Tối ưu **Auto Farm**
-- Tối ưu **Auto nâng cấp**(Thêm một số tuỳ chọn)
+- Tối ưu **Auto nâng cấp** (Thêm một số tuỳ chọn)
 - Sửa lỗi không hiển thị hộp thoại khi chức năng tự động block bật
 - Thêm chức năng **tìm kiếm** vật phẩm theo **tên**, **id** trong rương nhà và rương ngoại ô
 - Thêm chức năng **tự động dùng, xoá** vật phẩm

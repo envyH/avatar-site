@@ -10,8 +10,8 @@
 - Sửa lỗi **load sai tài nguyên** khi vào **Nhà** mà trên người đang mang một số vật phẩm đặc biệt(Pet thỏ mua ở Khu mua sắm,..)
 - Sửa lỗi không thể lấy dữ liệu **Auto chuyển xèng**
 - Tối ưu **Menu NPC**
-- Tối ưu giao diện: Giờ đây nếu rương bạn có nhiều loại vật phẩm **cùng loại** nhưng khác màu(tóc,..) sẽ **in màu** của chúng
-- Tối ưu giao diện: **Cài đặt** mặc định của game giờ trông trực quan hơn(Thêm tuỳ chọn **ngôn ngữ**)
+- Tối ưu giao diện: Giờ đây nếu rương bạn có nhiều loại vật phẩm **cùng loại** nhưng khác màu (tóc,..) sẽ **in màu** của chúng
+- Tối ưu giao diện: **Cài đặt** mặc định của game giờ trông trực quan hơn (Thêm tuỳ chọn **ngôn ngữ**)
 - Tối ưu **Auto nâng cấp item**
-- Tối ưu **Auto NPC**(Tìm kiếm, Tấn công)
+- Tối ưu **Auto NPC** (Tìm kiếm, Tấn công)
 - Tối ưu **Auto Quay số**, sửa lỗi không xoá item rác tại lượt cuối cùng nếu cài đặt giới hạn
