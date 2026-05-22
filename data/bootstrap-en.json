@@ -1,7 +1,7 @@
 {
-    "vscode": 5,
-    "vsdisplay": "2.5.9.4",
-    "numcl": 7,
+    "vscode": 6,
+    "vsdisplay": "2.5.9.5",
+    "numcl": 8,
     "urls": {
         "facebook": "fb.com/vung.tc10",
         "telegram": "t.me/vungtc",
@@ -11,7 +11,7 @@
         "ticker": "Avatar 259 is copyrighted by TeaMobi and modified by Envy. Have fun playing the game!!",
         "show": true,
         "title": "Announcement",
-        "msg": "## Updated May 4, 2026\n\n- Avatar version v2.5.9.4\n- Details at: https://envy.id.vn/"
+        "msg": "## Updated May 4, 2026\n\n- If the game crashes, please clear the cache.\n- Details at: https://envy.id.vn/"
     },
     "config": {
         "detail": true,
@@ -19,5 +19,5 @@
         "require": false
     },
     "history": [],
-    "timestamp": "2026-05-04T10:01:00Z"
+    "timestamp": "2026-05-22T10:01:00Z"
 }

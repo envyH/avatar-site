@@ -24,16 +24,16 @@
 
 #### Một vài chỉnh sửa so với bản gốc:
 - Sửa lỗi load tilemap trong nhà ở khi mang một số vật phẩm đặc biệt
-![Load tilemap home](https://envyh.github.io/avatar-site/assets/preview/load-tilemap-home.png)
+- Sửa lại hàm setExp khi hiển thị exp của OnGame
+- Sửa lại highlight tiến trình nhiệm vụ (0/number)
 - Cập nhật hàm paint item trong rương đồ(Đối với các loại tóc cùng loại như: tóc trẻ con, quý tộc,.. giờ đây là in màu thay vì đen toàn bộ như trước)
-![Hair Color](https://envyh.github.io/avatar-site/assets/preview/hair-color.png)
 - Khi tặng quà sẽ hiển thị người chơi được chọn + món đồ được sẽ tặng thay vì hiển thị bản thân
-![Give a gift](https://envyh.github.io/avatar-site/assets/preview/give-gift.png)
 - Cập nhật thêm chữ cái trong file font gốc
 - Chỉnh sửa lại 1 số giao diện(Nhẫn, ngôi sao,..)
 - Hiển thị thông báo chạy khi đang Ongame(Casino)
+- Hiển thị trực tiếp sản lượng nông trại trên item
 - Thêm 1 số CMD hỗ trợ
-- Sửa lại hàm setExp khi hiển thị exp của OnGame
+- Thêm ảnh ô đất cho ô level 3, level 4
 
 ---
 
@@ -47,6 +47,6 @@
 - Cuối cùng chúc mọi người có thời gian **'treo'** vui vẻ, có nhiều thời gian hơn để..
 
 #### Liên hệ: 
-<a href="https://www.facebook.com/vung.tc10" target="blank"><img src="assets/facebook.png" alt="vungnv99" height="48" width="48" />
-<a href="https://t.me/vungtc" target="blank"><img src="assets/telegram.png" alt="@vungnguyenn" height="48" width="48" />
+<a href="https://www.facebook.com/vung.tc10" target="blank"><img src="assets/facebook.png" alt="vung.tc10" height="48" width="48" />
+<a href="https://t.me/vungtc" target="blank"><img src="assets/telegram.png" alt="t.me/vungtc" height="48" width="48" />
 <br>

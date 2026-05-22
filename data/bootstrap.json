@@ -1,7 +1,7 @@
 {
-    "vscode": 5,
-    "vsdisplay": "2.5.9.4",
-    "numcl": 7,
+    "vscode": 6,
+    "vsdisplay": "2.5.9.5",
+    "numcl": 8,
     "urls": {
         "facebook": "fb.com/vung.tc10",
         "telegram": "t.me/vungtc",
@@ -11,7 +11,7 @@
         "ticker": "Avatar 259 thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!!",
         "show": true,
         "title": "Thông báo",
-        "msg": "## Cập nhật ngày 04/05/2026\n\n- Phiên bản Avatar v2.5.9.4\n- Chi tiết tại: https://envy.id.vn/"
+        "msg": "## Cập nhật ngày 04/05/2026\n\n- Nếu lỗi game vui lòng xoá bộ nhớ tạm\n- Chi tiết tại: https://envy.id.vn/"
     },
     "config": {
         "detail": true,
@@ -19,5 +19,5 @@
         "require": false
     },
     "history": [],
-    "timestamp": "2026-05-04T10:01:00Z"
+    "timestamp": "2026-05-22T10:01:00Z"
 }
