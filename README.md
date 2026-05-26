@@ -1,5 +1,5 @@
 #### Các chức năng chính bao gồm:
-- Auto Farm
+- Auto Farm (bản thân, bạn bè, vợ - chồng)
 - Auto Câu cá
 - Auto kim cương
 - Auto Bán đá

@@ -3,7 +3,7 @@
 - Cập nhật hiển thị thông tin (xu, lượng,..)
 - Tối ưu menu SettingEvent
 - Sửa một số lỗi liên quan đến AutoFarm: gợi ý cây trồng, mua vật phẩm,..
-- Tối ưu Autp bán đá
+- Tối ưu Auto bán đá
 - Thêm ảnh cho đất level 3, 4
 - Thêm số lần trong AutoKiss, AutoHit trong nhà
 - Thêm hiển thị sản lượng trực tiếp trong kho hàng
