@@ -5,7 +5,7 @@
 - Cập nhật **Auto Câu cá** (Tự động **reset chỗ ngồi** khi văng ra City Map), thêm tuỳ chọn **giữ/bán cá**
 - Thêm tuỳ chọn **số lượng**, **độ trễ** trong **Auto Nâng cấp**
 - Thêm **Auto chuyển xèng** (Oản tù xì)
-- Thêm chức năng **chặn chat** và **block vĩnh viễn** (Tự block nếu chung map) có thể mở lại block (Cách sử dụng: gõ **/block** khi con trỏ chỉ vào người chơi đó)
+- Thêm chức năng **chặn chat** và **block vĩnh viễn** (Tự block nếu chung map) có thể mở lại block (Cách sử dụng: gõ **block** khi con trỏ chỉ vào người chơi đó)
 - Thêm tuỳ chọn tìm NPC chỉ một **map hiện tại** hoặc **tự động chuyển map**
 - Thêm menu tuỳ chọn trong lễ đường (Bắn pháo, ném bánh,..)
 - Tối ưu lại giao diện đối với những tài khoản **có nhẫn** hoặc **ngôi sao** cạnh tên

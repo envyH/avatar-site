@@ -32,6 +32,7 @@
 - Chỉnh sửa lại 1 số giao diện(Nhẫn, ngôi sao,..)
 - Hiển thị thông báo chạy khi đang Ongame(Casino)
 - Hiển thị trực tiếp sản lượng nông trại trên item
+- Mở rộng rương đồ khi có nhiều item
 - Thêm 1 số CMD hỗ trợ
 - Thêm ảnh ô đất cho ô level 3, level 4
 

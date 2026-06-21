@@ -1,3 +1,9 @@
+## Cập nhật ngày 21/06/2026
+- Cập nhật giao diện map nông trại(trong, ngoài)
+- Sửa lỗi không cập nhật sản lượng nông sản
+- Tối ưu một số thứ..
+
+
 ## Cập nhật ngày 22/05/2026
 - Cập nhật lại AutoClick, Auto Chuyển xèng
 - Cập nhật hiển thị thông tin (xu, lượng,..)
