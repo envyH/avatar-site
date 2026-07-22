@@ -9,7 +9,7 @@
     },
     "ac": {
         "ticker": "Avatar 259 is copyrighted by TeaMobi and modified by Envy. Have fun playing the game!!",
-        "show": true,
+        "show": false,
         "title": "Announcement",
         "msg": "## Updated June 21, 2026\n\n- Fixed game crash issues on Symbian and S40 devices.\n- Details at: https://envy.id.vn/"
     },
@@ -19,5 +19,5 @@
         "require": false
     },
     "history": [],
-    "timestamp": "2026-06-21T10:01:00Z"
+    "timestamp": "2026-07-22T10:01:00Z"
 }

@@ -1,7 +1,7 @@
 #### Các chức năng chính bao gồm:
 - Auto Farm (bản thân, bạn bè, vợ - chồng)
 - Auto Câu cá
-- Auto kim cương
+- Auto Kim cương
 - Auto Bán đá
 - Auto Quay số
 - Auto Nâng cấp đồ
@@ -14,9 +14,9 @@
 - Một số Auto khác,..
 
 
-#### [**Avatar 258**](http://teamobi.com/home/game/Avatar-Thanh-Pho-Dieu-Ky-1.html "Avatar-Thanh-Pho-Dieu-Ky")
+#### [**Avatar 258**](http://gomobi.vn/home/game/Avatar-Thanh-Pho-Dieu-Ky-1.html "Avatar-Thanh-Pho-Dieu-Ky")
 
-##### Bản quyền thuộc về [**TeaMobi**](http://teamobi.com/home/trang-chu.html "TeaMobi")
+##### Bản quyền thuộc về [**TeaMobi**](http://gomobi.vn/home/trang-chu.html "TeaMobi")
 
 ## Mod by: **Vững Nguyễn**
 
@@ -33,8 +33,8 @@
 - Hiển thị thông báo chạy khi đang Ongame(Casino)
 - Hiển thị trực tiếp sản lượng nông trại trên item
 - Mở rộng rương đồ khi có nhiều item
-- Thêm 1 số CMD hỗ trợ
 - Thêm ảnh ô đất cho ô level 3, level 4
+- Cùng một số cập nhật khác..
 
 ---
 
