@@ -1,7 +1,7 @@
 {
-    "vscode": 7,
-    "vsdisplay": "2.5.9.5",
-    "numcl": 8,
+    "vscode": 8,
+    "vsdisplay": "2.5.9.7",
+    "numcl": 9,
     "urls": {
         "facebook": "fb.com/vung.tc10",
         "telegram": "t.me/vungtc",
@@ -9,9 +9,9 @@
     },
     "ac": {
         "ticker": "Avatar 259 is copyrighted by TeaMobi and modified by Envy. Have fun playing the game!!",
-        "show": false,
+        "show": true,
         "title": "Announcement",
-        "msg": "## Updated June 21, 2026\n\n- Fixed game crash issues on Symbian and S40 devices.\n- Details at: https://envy.id.vn/"
+        "msg": "## Updated August 09, 2026\n\n- Major update available. Please update for the best experience.\n- Details at: https://envy.id.vn/"
     },
     "config": {
         "detail": true,
@@ -19,5 +19,5 @@
         "require": false
     },
     "history": [],
-    "timestamp": "2026-07-22T10:01:00Z"
+    "timestamp": "2026-08-09T10:01:00Z"
 }
