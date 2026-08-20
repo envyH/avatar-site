@@ -1,3 +1,12 @@
+## Cập nhật ngày 20/08/2026
+- Thêm Auto Captcha
+- Sửa lỗi hiển thị xu, lượng
+- Sửa lỗi Tự động gieo hạt khi bật AutoCare
+- Sửa lỗi bán đá
+- Sửa lỗi tự bỏ cần câu VIP khi quay số 😂
+- Sửa một vài lỗi logic khác
+
+
 ## Cập nhật ngày 09/08/2026
 - Thêm bán nhanh nông sản
 - Thêm form cài đặt cho Auto Kim cương
@@ -16,10 +25,3 @@
 - Sửa lỗi crash game khi mở shop bất kì mà menu nhân vật đang mở
 - Sửa lỗi tự động Auto Ai cập khi mua vé thủ công
 - Cùng một vài thay đổi khác..
-
-
-## Cập nhật ngày 21/06/2026
-- Cập nhật giao diện map nông trại(trong, ngoài)
-- Sửa lỗi không cập nhật sản lượng nông sản
-- Sửa lỗi crash game trên các thiết bị Symbian hay S40 của Nokia
-- Tối ưu một số thứ..

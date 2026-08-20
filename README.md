@@ -1,7 +1,7 @@
 #### Các chức năng chính bao gồm:
 - Auto Farm (bản thân, bạn bè, vợ - chồng)
 - Auto Câu cá
-- Auto Kim cương
+- Auto Kim cương(Auto captcha)
 - Auto Bán đá
 - Auto Quay số
 - Auto Nâng cấp đồ
