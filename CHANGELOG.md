@@ -1,3 +1,11 @@
+## Cập nhật ngày 20/08/2026
+- Thêm Auto Captcha
+- Sửa lỗi hiển thị xu, lượng
+- Sửa lỗi Tự động gieo hạt khi bật AutoCare
+- Sửa lỗi bán đá
+- Sửa lỗi tự bỏ cần câu VIP khi quay số 😂
+- Sửa một vài lỗi logic khác
+
 ## Cập nhật ngày 09/08/2026
 - Thêm bán nhanh nông sản
 - Thêm form cài đặt cho Auto Kim cương
