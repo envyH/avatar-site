@@ -11,7 +11,7 @@
         "ticker": "Avatar 259 thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!!",
         "show": true,
         "title": "Thông báo",
-        "msg": "## Cập nhật ngày 20/08/2026\n\n- Thêm Auto Captcha!\n- Thêm hỗ trợ biến hình Kirby\n- Chi tiết tại: https://envy.id.vn/"
+        "msg": "## Cập nhật ngày 21/08/2026\n\n- Thêm Auto Captcha!\n- Thêm hỗ trợ biến hình Kirby\n- Chi tiết tại: https://envy.id.vn/"
     },
     "config": {
         "detail": true,
@@ -19,5 +19,5 @@
         "require": false
     },
     "history": [],
-    "timestamp": "2026-08-20T10:01:00Z"
+    "timestamp": "2026-08-21T10:01:00Z"
 }
